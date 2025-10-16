@@ -13,7 +13,7 @@ const Home = () => {
         <div className="mb-8">
           <div className="w-32 h-32 mx-auto mb-8 rounded-full overflow-hidden animate-pulse-slow">
             <img 
-              src="/profile-image.jpg" 
+              src="/portfolio/profile-image.jpg" 
               alt="Marko Petrov" 
               className="w-full h-full object-cover"
             />
